@@ -1,4 +1,3 @@
-# Leetcode_tracker
 # LeetCode CN ➜ Notion 同步工具
 
 > 自动从 **LeetCode 中文站**抓取题目信息（标题、描述、难度、标签），并同步到你的 Notion，Let's记录刷题的点点滴滴🧑‍🤝‍🧑。
