@@ -49,3 +49,10 @@
 # 2. 全部运行
 # 3. 按提示输入 Importance、Review、Comments、URL
 # 4. 成功写入/更新 Notion
+```
+## 致谢
+
+本项目受 [xzhao大佬的英文版tracker](https://github.com/xzhao11/leetcode_to_notion)启发，感谢其思路与示例代码对本项目的帮助。
+
+如对原项目有兴趣，可前往其仓库查看详情。
+
