@@ -7,7 +7,7 @@
 1. 支持输入 LeetCode 中文站 URL 自动提取 slug  
 2. 使用官方 GraphQL API 获取完整题目内容（含翻译标题、描述、难度、标签）  
 3. 自动写入 Notion Database  
-4. CLI/Colab 弹窗交互输入：Importance / Review 状态 / Comments
+4. Colab 弹窗交互输入：Importance / Review 状态 / Comments
 
 ## 技术栈 & 原理
 
